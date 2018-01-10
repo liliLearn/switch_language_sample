@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">switch_language_sample</string>
+    <string name="action_settings">Language</string>
+    <string name="hello_world">Hello World!</string>
+</resources>
